@@ -1,5 +1,6 @@
 import Layout from "./components/Layout"
 import Grid from "./components/Grid"
+import Hero from "./components/Hero"
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
     // 1. Layout wraps our application  which has childer content inside it
     <Layout>
       <main>
+        <Hero/>
         <Grid/>
       </main>
     </Layout>
