@@ -6,7 +6,7 @@ export default function Hero() {
                 <li>Folow a simple program with guaranteed results</li>
                 <li>Get fit, healthy, strong and shredded</li>
                 <li>Learn more about gym, training and technique</li>
-                <li>Become a lifetime gym girlie 💜</li>
+                <li>Become a lifetime gym bro 💛</li>
             </ol>
             <h3>The Rules</h3>
             <p>To complete this program, you <b>MUST</b> follow these 3 simple rules:</p>
