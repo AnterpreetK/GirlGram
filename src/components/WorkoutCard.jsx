@@ -3,8 +3,13 @@ pops up it allows them to seal the exercises input, put the weights and have all
 that information...all of that logic will be contained in this reusable workout card
 */
 
-export default function WorkoutCard(){
+export default function WorkoutCard(props){
+
+    const {trainingPlan, workoutIndex, type} = props
+
     return(
-         <></>     //These are our react fragments
+        <div>
+            
+        </div>
     )
 }

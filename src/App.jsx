@@ -2,6 +2,7 @@ import Layout from "./components/Layout"
 import Grid from "./components/Grid"
 import Hero from "./components/Hero"
 
+
 function App() {
   return (
     // <></> These are our react fragments
